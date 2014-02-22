@@ -34,3 +34,11 @@
 	max-height: 100%;
 	
 }
+
+.row {
+	padding-bottom: 30px;
+}
+
+p {
+	text-align: justify;
+}
