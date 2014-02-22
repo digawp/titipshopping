@@ -1,8 +1,8 @@
-.logo{
+.logo {
 	padding: 10px;
 }
 
-.navbar-custom{
+.navbar-custom {
 	background: #ffd65e; /* Old browsers */
 	background: -moz-linear-gradient(top,  #ffd65e 0%, #febf04 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffd65e), color-stop(100%,#febf04)); /* Chrome,Safari4+ */
