@@ -42,3 +42,7 @@
 p {
 	text-align: justify;
 }
+
+.thumbnail {
+	height: 100%;
+}
