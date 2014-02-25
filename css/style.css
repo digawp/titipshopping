@@ -43,15 +43,6 @@ p {
 	text-align: justify;
 }
 
-.row > .thumbnail-wrap {
-	display: table-row;
-}
-
-.col-md-3 > .thumbnail-wrap {
-	display: table-cell;
-}
-
-#mengapa-kami {
-	display: table;
-	margin: 0 auto;
+.thumbnail {
+	height: 100%;
 }
