@@ -72,3 +72,10 @@ body {
 
 	padding: 30px;
 }
+
+#footer-wrapper {
+	background-color: white;
+	border-radius: 20px;
+	margin-top: 20px;
+	padding-top: 10px;
+}
